@@ -59,6 +59,7 @@ public class LineaTelefonica
     public double darCostoLlamadas( )
     {
         // TODO Parte2 PuntoB: Completar el m�todo seg�n la documentaci�n dada.
+        return costoLlamadas;
     }
 
     /**
