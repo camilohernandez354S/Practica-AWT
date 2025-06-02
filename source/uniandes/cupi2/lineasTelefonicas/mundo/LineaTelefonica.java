@@ -119,6 +119,9 @@ public class LineaTelefonica
     public void agregarLlamadaLargaDistancia( int pMinutos )
     {
         // TODO Parte2 PuntoF: Completar el m�todo seg�n la documentaci�n dada.
+        numeroLlamadas += 1;
+        numeroMinutos += pMinutos;
+        costoLlamadas += pMinutos * 380;
     }
 
     /**
