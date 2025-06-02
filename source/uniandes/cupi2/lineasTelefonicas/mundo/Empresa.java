@@ -181,6 +181,7 @@ public class Empresa
     public void agregarLlamadaLargaDistanciaLinea2( int pMinutos )
     {
         // TODO Parte3 PuntoK: Completar el m�todo seg�n la documentaci�n dada.
+        linea2.agregarLlamadaLargaDistancia(pMinutos);
     }
 
     /**
