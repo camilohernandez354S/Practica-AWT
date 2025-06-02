@@ -79,6 +79,7 @@ public class LineaTelefonica
     public int darNumeroMinutos( )
     {
         // TODO Parte2 PuntoD: Completar el m�todo seg�n la documentaci�n dada.
+        return numeroMinutos;
     }
 
     /**
