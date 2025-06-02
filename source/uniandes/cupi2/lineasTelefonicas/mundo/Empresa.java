@@ -160,6 +160,7 @@ public class Empresa
     public void agregarLlamadaLocalLinea3( int pMinutos )
     {
         // TODO Parte3 PuntoJ: Completar el m�todo seg�n la documentaci�n dada.
+        linea3.agregarLlamadaLocal(pMinutos);
     }
 
     /**
